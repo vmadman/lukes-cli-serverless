@@ -1,0 +1,13 @@
+{
+  "@lukechavers/generator-luke": {
+    "projectName": "lukes-cli-serverless",
+    "fullName": "Luke Chavers",
+    "emailAddress": "luke@c2cschools.com",
+    "projectDesc": "A plugin for my CLI utility that helps with our Serverless Framework pattern.",
+    "projectVersion": "5.0.0",
+    "githubOwner": "vmadman",
+    "gitRepoName": "lukes-cli-serverless",
+    "vagrantPortStart": 3947,
+    "vagrantPortCount": 3
+  }
+}
