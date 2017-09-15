@@ -1,24 +1,24 @@
 {
-	"name": "@lukechavers/lukes-cli-serverless",
-	"version": "5.0.0",
-	"description": "A plugin for my CLI utility that helps with our Serverless Framework pattern.",
-	"main": "lib/index.js",
-	"license": "MIT",
-	"repository": "https://github.com/vmadman/lukes-cli-serverless",
-	"author": {
-		"name": "Luke Chavers",
-		"email": "luke@c2cschools.com",
-		"url": ""
-	},
-	"contributors": [
-		{
-			"name": "Luke Chavers",
-			"email": "luke@c2cschools.com",
-			"url": ""
-		}
-	],
-	"publishConfig": {
-		"registry": "https://registry.npmjs.org/"
-	},
-	"keywords": []
+  "name": "@lukechavers/lukes-cli-serverless",
+  "version": "5.0.2",
+  "description": "A plugin for my CLI utility that helps with our Serverless Framework pattern.",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "repository": "https://github.com/vmadman/lukes-cli-serverless",
+  "author": {
+    "name": "Luke Chavers",
+    "email": "luke@c2cschools.com",
+    "url": ""
+  },
+  "contributors": [
+    {
+      "name": "Luke Chavers",
+      "email": "luke@c2cschools.com",
+      "url": ""
+    }
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "keywords": []
 }
