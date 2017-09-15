@@ -1,5 +1,5 @@
 {
-	"name": "lukes-cli-serverless",
+	"name": "@lukechavers/lukes-cli-serverless",
 	"version": "5.0.0",
 	"description": "A plugin for my CLI utility that helps with our Serverless Framework pattern.",
 	"main": "lib/index.js",
